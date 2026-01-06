@@ -53,6 +53,29 @@ mvn spring-boot:run
 
 Accès Swagger UI : http://localhost:8080/swagger-ui/index.html
 
+## 📸 Captures d'écran
+
+### Interface Swagger UI
+![Swagger UI](img.png)
+
+### Liste des Endpoints
+![Endpoints](img_1.png)
+
+### Test GET All Students
+![GET Students](img_2.png)
+
+### Test POST Student
+![POST Student](img_3.png)
+
+### Test GET Student by ID
+![GET by ID](img_4.png)
+
+### Base de données H2
+![H2 Console](img_5.png)
+
+### Structure du Projet
+![Project Structure](img_6.png)
+
 ---
 
 **TP 6** - Spring Boot et Swagger  
